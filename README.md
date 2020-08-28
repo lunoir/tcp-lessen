@@ -8,5 +8,5 @@ TCPをなんとなく座学で理解しつつ、TCP通信をするソフトウ�
 - lessen1: Wiresharkを使ってHTTP通信を解析する
 - lessen2: TCPの基礎の基礎講座
 - lessen3: linuxでネットワークプログラミングするときに使用するシステムコールについて
-- lessen4: rustでechoサーバ作る予定
+- lessen4: rustでechoサーバを動かしてみる
 - 以降未定
